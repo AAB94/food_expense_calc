@@ -1,0 +1,12 @@
+accept: application/json, text/plain, */*
+accept-encoding: gzip, deflate, br
+accept-language: en-GB,en;q=0.9
+access-control-allow-headers: *
+access-control-allow-methods: GET, POST, PATCH, PUT, DELETE, OPTIONS
+access-control-allow-origin: *
+api_key: X24EZOH3IL
+client_type: web-chrome
+content-type: application/json
+origin: https://pizzaonline.dominos.co.in
+referer: https://pizzaonline.dominos.co.in/
+strict-transport-security: max-age=1681694553227
